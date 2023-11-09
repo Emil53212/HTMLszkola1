@@ -11,3 +11,18 @@ h1 {
   color: deepskyblue;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black
 }
+
+.tab {
+  border: 1px solid #C0C0C0;
+  padding: 5px;
+}
+
+.tab th {
+  border: 1px solid #ff0000;
+  padding: 5px;
+  background: #007fe0;
+}
+
+.tab td {
+  border: 1px solisoliddny #ff7b00;
+  padding: 5px;
